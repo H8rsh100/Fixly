@@ -1,8 +1,8 @@
-# Revvy
+# Fixly
 
 Paste your error. Get a clear explanation and fix.
 
-Revvy is a single-page web app that analyzes error messages and stack traces using Google's Gemini AI, then explains what went wrong in plain English and provides step-by-step instructions to fix it.
+Fixly is a single-page web app that analyzes error messages and stack traces using Google's Gemini AI, then explains what went wrong in plain English and provides step-by-step instructions to fix it.
 
 ## Features
 
